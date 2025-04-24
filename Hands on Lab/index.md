@@ -1,3 +1,13 @@
+---
+buttons:
+  - title: Hands on Lab - Download
+    icon: material-file-download-outline
+    attributes:
+      class: md-content__button md-icon
+      href: ../hands-on-labs.pdf
+      target: _blank
+---
+
 # Login
 
 1. Navigate to [https://support.fortinet.com](https://support.fortinet.com) and click ![Login](login.png)
